@@ -15,7 +15,7 @@ output:
 
 
 ```{R, setup, include = F}
-# devtools::install_github("dill/emoGG")
+#devtools::install_github("dill/emoGG")
 library(pacman)
 p_load(
   broom, tidyverse,
@@ -176,7 +176,7 @@ class: title-slide
  
 # Introduction to Statistical Thinking
 
-## ADD something with statistical literacy
+## How to read Statistical Output
 
 ### .smallest[Gaetan Bakalli, Department of Mathematics and Statistics, Auburn University 🇺🇸]
 ### .smallest[Stéphane Guerrier, Data Analytics Lab, University of Geneva 🇨🇭]
