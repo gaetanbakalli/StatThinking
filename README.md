@@ -26,8 +26,14 @@ Karemera](https://mucyo.net/).
 [template](https://github.com/edrubin/EC607S20) is based on the work of
 Dr. [Ed Rubin](https://edrub.in)
 
-**[Lecture: Introduction to Statistical Thinking]()**
+**[Lecture: Introduction to Statistical
+Thinking](https://raw.githack.com/gaetanbakalli/StatThinking/main/slides.html)**
 
-[![Image name](pics/title.png)]()
+[![](pics/title.png)](https://raw.githack.com/gaetanbakalli/StatThinking/main/slides.html)
 
-**Note formats:** [.html]() \| [.pdf]() \| [.Rmd]()
+**Note formats:**
+[.html](https://raw.githack.com/gaetanbakalli/StatThinking/main/slides.html)
+\|
+[.pdf](https://raw.githack.com/gaetanbakalli/StatThinking/main/slides.pdf)
+\|
+[.Rmd](https://raw.githack.com/gaetanbakalli/StatThinking/main/slides.Rmd)
