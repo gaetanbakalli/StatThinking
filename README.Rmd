@@ -3,7 +3,7 @@
 output: github_document
 ---
 
-Welcome to the course on **Introduction to Statistical Thinking** (taught by [Stéphane Guerrier](https://stephaneguerrier.com/)) given within the course *Comprendre le numérique* at the University of Geneva.
+Welcome to the course on **Introduction to Statistical Thinking** (taught by Prof. [Stéphane Guerrier](https://stephaneguerrier.com/)) given within the course *Comprendre le numérique* at the University of Geneva.
 
 # Course material
 
@@ -15,7 +15,7 @@ or
 
 ![](GIF/trump_ts.gif)
 
-but the rest will actually show up. These slides were mainly prepared by [Gaetan Bakalli](https://gaetanbakalli.com/), [Stéphane Guerrier](https://stephaneguerrier.com/) and [Mucyo Karemera](https://mucyo.net/).
+but the rest will actually show up. These slides were mainly prepared by Dr. [Gaetan Bakalli](https://gaetanbakalli.com/), Prof. [Stéphane Guerrier](https://stephaneguerrier.com/) and Dr. [Mucyo Karemera](https://mucyo.net/).
 
 *Note:* The slides were created with [`xaringan`](https://github.com/yihui/xaringan/wiki) in [R](cran.r-project.org) and the [template](https://github.com/edrubin/EC607S20) is based on the work of Dr. [Ed Rubin](https://edrub.in)
 
